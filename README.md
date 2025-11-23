@@ -179,11 +179,4 @@ streamlit run app.py
 
 ---
 
-## Son notlar / Etik uyarı
 
-* Projeye başlamadan önce bu README'deki disclaimer bölümünü kısaltıp repo ana sayfasına koyun.
-* Gerçek hasta verisi kullanımı planlanıyorsa, kurumunuzun etik kurulundan onay ve data-use agreement alın.
-
----
-
-*Hazır — Repo başlangıcı ve 10 vaka seti bu dokümanda yer alıyor. İsterseniz şimdi README dosyasını repo formatına çevirebilir veya doğrudan `app/frontend/streamlit` için minimal çalışır kod (copy-paste) hazırlayayım.*
